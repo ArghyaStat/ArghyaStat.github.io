@@ -1,11 +1,11 @@
 ---
-layout: about
-title: about
+layout: About
+title: About
 permalink: /
 subtitle: <a href='#'> </a>
 
 profile:
-  align: center
+  align: right
   image: Arghya_image.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
