@@ -30,4 +30,4 @@ latest_posts:
 
 I am currently a Senior Research Fellow in the [Department of Mathematics and Statistics](https://www.iitk.ac.in/math/) at the Indian Institute of Technology Kanpur. I have completed my Bachelor's and Master's in Statistics from [Department of Statistics, University of Calcutta](https://www.caluniv.ac.in/academic/Statistics.html). I am working under [Prof. Dootika Vats](https://dvats.github.io/) and [Prof. Arnab Hazra](https://sites.google.com/view/arnabhazra09/) on high-dimensional Bayesian problems.
 
-My research interests include spatial statistics, Markov chain Monte Carlo, Bayesian nonparametrics, and Statistical Machine Learning.
+My research interests include Spatial Statistics, Markov chain Monte Carlo, Bayesian Nonparametrics, and Statistical Machine Learning.
