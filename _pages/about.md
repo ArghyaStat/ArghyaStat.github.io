@@ -10,8 +10,8 @@ profile:
   image_circular: true # crops the image to make it circular
   more_info: >
     <p> arghyam21@iitk.ac.in </p>
-    <p> </p>
-    <p> </p>
+    # <p> </p>
+    # <p> </p>
    
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
