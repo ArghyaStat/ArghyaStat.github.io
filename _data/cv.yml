@@ -77,10 +77,18 @@
       items:
         - Best Paper Award (2nd), International Conference on Recent Advancements in the Techniques of the Bayesian Paradigm, Banaras Hindu University.
 
+     - year: 2019
+      items:
+        - Best Poster Award – National Seminar on Sample Survey, jointly organized by Calcutta Statistical Association and the Department of Statistics, University of Calcutta.
+     
+    - year: 2015-2020
+      items: 
+        - DST-INSPIRE Scholar (based on top 1% percentiles in board exams in high school), sponsored by the Department of Science and Technology, Government of India.
+
 - title: Research Interests
   type: nested_list
   contents:
-    - title: Spatial Statistics.
-    - title: Markov chain Monte Carlo.
+    - title: Spatial Statistics (Theory and Methods).
+    - title: Markov chain Monte Carlo (Computation and Theory).
     - title: Bayesian Nonparametrics (Theory and Methods).
     - title: Statistical Machine Learning (Theory and Methods).
