@@ -12,10 +12,10 @@
 # cv_pdf: /assets/pdf/Arghya_research_cv.pdf # path to your CV PDF file
 # dblp_url: # your DBLP profile url
 # discord_id: # your discord id (18-digit unique numerical identifier)
-email: arghyam21@iitk.ac.in # your email address
+#email: arghyam21@iitk.ac.in # your email address
 # facebook_id: # your facebook id
 # flickr_id: # your flickr id
-github_username: ArghyaStat # your GitHub user name
+#github_username: ArghyaStat # your GitHub user name
 # gitlab_username: # your GitLab user name
 # hal_id: # your HAL id (https://hal.science/)
 # ieee_id: # your ieeexplore.ieee.org/author/id
@@ -26,7 +26,7 @@ github_username: ArghyaStat # your GitHub user name
 # lastfm_id: # your lastfm id
 # lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 # leetcode_id: # your LeetCode id
-  linkedin_username: arghya-m # your LinkedIn user name
+#  linkedin_username: arghya-m # your LinkedIn user name
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
 # orcid_id: # your ORCID ID
@@ -36,7 +36,7 @@ github_username: ArghyaStat # your GitHub user name
 # quora_username: # your Quora username
 # research_gate_profile: # your profile on ResearchGate
 #rss_icon: true # comment this line to hide the RSS icon
-scholar_userid: lYEAl0QAAAAJ # your Google Scholar ID
+#scholar_userid: lYEAl0QAAAAJ # your Google Scholar ID
 #https://scholar.google.com/citations?user=lYEAl0QAAAAJ&hl=en&authuser=1
 # scopus_id: # your profile on Scopus
 # semanticscholar_id: # your Semantic Scholar ID
