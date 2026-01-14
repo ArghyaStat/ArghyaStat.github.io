@@ -12,27 +12,31 @@
     - title: PhD in Statistics
       institution: Indian Institute of Technology Kanpur, India
       year: 2026 (tentative)
-      grade: 8.78
-      core courses: 
-        - Probability Theory.
-        - Statistical Inference.
-        - Advanced Calculus.
-      elective courses:
-        - Asymptotic Statistics.
-        - Robust Statistical Methods.
-        - Probabilistic Machine Learning.
-        - Spatial Statistics.
-        - Markov chain Monte Carlo.
-      
+      description:
+        - Grade (8.78 out of 10).
+        - title: Core Courses.
+          contents:
+             - Probability Theory.
+             - Statistical Inference.
+             - Advanced Calculus.
+        - title: Elective Courses.
+              - Asymptotic Statistics.
+              - Robust Statistical Methods.
+              - Probabilistic Machine Learning.
+              - Spatial Statistics.
+              - Markov chain Monte Carlo.
+     
     - title: MSc in Statistics
       institution: University of Calcutta, India
       year: 2020
-      grade: 72.5%
+      description:
+        - Grade 72.5%.
 
     - title: BSc in Statistics
       institution: University of Calcutta, India
       year: 2018
-      grade: 72.4%
+      description:
+        - Grade 72.5%.
 
 - title: Teaching Experience
   type: time_table
