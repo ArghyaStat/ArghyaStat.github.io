@@ -14,17 +14,16 @@
       year: 2026 (tentative)
       description:
         - Grade (8.78 out of 10).
-        - title: Core Courses.
+        - title: Coursework.
           contents:
-             - Probability Theory.
-             - Statistical Inference.
-             - Advanced Calculus.
-        - title: Elective Courses.
-              - Asymptotic Statistics.
-              - Robust Statistical Methods.
-              - Probabilistic Machine Learning.
-              - Spatial Statistics.
-              - Markov chain Monte Carlo.
+             - Probability Theory (Core).
+             - Statistical Inference (Core).
+             - Advanced Calculus (Core).
+             - Asymptotic Statistics (Elective).
+             - Robust Statistical Methods (Elective).
+             - Probabilistic Machine Learning (Elective).
+             - Spatial Statistics (Elective).
+             - Markov chain Monte Carlo (Elective).
      
     - title: MSc in Statistics
       institution: University of Calcutta, India
@@ -36,7 +35,7 @@
       institution: University of Calcutta, India
       year: 2018
       description:
-        - Grade 72.5%.
+        - Grade 72.4%.
 
 - title: Teaching Experience
   type: time_table
@@ -96,3 +95,22 @@
     - title: Markov chain Monte Carlo (Computation and Theory).
     - title: Bayesian Nonparametrics (Theory and Methods).
     - title: Statistical Machine Learning (Theory and Methods).
+
+- title: Workshops and Conferences
+  type: time_table
+  contents:
+     - year: 2025
+       items:
+         - Invited Attendee at BIRS Workshop on Uncertainty quantification of large Bayesian models, CMI, Chennai, India.
+        
+     - year: 2025
+       items:
+         - Student Paper Competition on International Conference on Recent Advancements in the Techniques of the Bayesian Paradigm, Banaras Hindu University.
+
+     - year: 2024
+       items:
+         - Contributed talk at IISA-2024, Kochi, India, organized by the International Indian Statistical Association.
+     
+     - year: 2022
+       items: 
+         - Poster presentation at IISA-2022, IISc Bangalore, India, organized by the International Indian Statistical Association.
