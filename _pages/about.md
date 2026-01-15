@@ -9,7 +9,7 @@ profile:
   image: Arghya_image.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p> Email : arghyam21@iitk.ac.in </p>
+    <p> Email: arghyam21@iitk.ac.in </p>
    
 
 Selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -26,7 +26,9 @@ latest_posts:
   limit:  # leave blank to include all the blog posts
 ---
 
-I am a Senior Research Fellow in the [Department of Mathematics and Statistics](https://www.iitk.ac.in/math/) at the Indian Institute of Technology Kanpur. I earned my Bachelor’s and Master’s degrees in Statistics from the [Department of Statistics, University of Calcutta](https://www.caluniv.ac.in/academic/Statistics.html). Currently, I work under the supervision of [Prof. Arnab Hazra](https://sites.google.com/view/arnabhazra09/) and [Prof. Dootika Vats](https://dvats.github.io/), focusing on theoretical and methodological aspects of high-dimensional Bayesian statistics.
+I am a final year PhD student in the [Department of Mathematics and Statistics](https://www.iitk.ac.in/math/) at the Indian Institute of Technology Kanpur. I earned my Bachelor’s and Master’s degrees in Statistics from the [Department of Statistics, University of Calcutta](https://www.caluniv.ac.in/academic/Statistics.html). Currently, I am jointly advised by [Prof. Arnab Hazra](https://sites.google.com/view/arnabhazra09/) and [Prof. Dootika Vats](https://dvats.github.io/), focusing on theoretical and methodological aspects of high-dimensional Bayesian statistics.
+
+Please look into the CV tab for more details.
 
 ### Research Interests
 - Spatial Statistics  
