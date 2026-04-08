@@ -48,7 +48,10 @@
   <!-- Entry bib key -->
   <div id="{{ entry.key }}" class="{% if site.enable_publication_thumbnails %}col-sm-8{% else %}col-sm-10{% endif %}">
     <!-- Title -->
-    <div class="title">{{ entry.title }}</div>
+   <div class="title">{{ entry.title }}</div>
+<div style="color:red; font-size: 12px;">
+  arxiv={{ entry.arxiv }} | pdf={{ entry.pdf }} | code={{ entry.code }} | bib={{ entry.bibtex_show }}
+</div>
     <!-- Author -->
     <div class="author">
       {% assign author_array_size = entry.author_array | size %}
