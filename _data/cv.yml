@@ -42,6 +42,7 @@
   contents:
     - title: Lab Instructor and Grader
       description:
+        - MTH-676 (Econometric Theory).
         - MTH-422 (Introduction to Bayesian Analysis).
         - MTH-441 (Linear Regression and ANOVA).
         - MTH-442 (Time Series Analysis).
@@ -59,7 +60,7 @@
     - title: Associate Fellow
       institution: Vidhi Legal Policy
       year: 2021
-      description: Statistical Modeller for efficient survey design.
+      description: Statistical Modeler for efficient survey design.
 
 
 - title: Summer Research Fellow
