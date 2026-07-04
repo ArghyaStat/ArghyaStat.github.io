@@ -9,7 +9,7 @@ last_name: Mukherjee
 contact_note: >
   The best way to reach me is via email.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
- 
+
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -39,8 +39,8 @@ repo_trophies:
 # To use a different instance or service for displaying GitHub stats and trophies,
 # update these URLs. These are used in the repository templates.
 external_services:
-  github_readme_stats_url: 
-  github_profile_trophy_url: 
+  github_readme_stats_url:
+  github_profile_trophy_url:
 
 # -----------------------------------------------------------------------------
 # RSS Feed
@@ -93,8 +93,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 #blog_name:  # blog_name will be displayed in your blog page
-#blog_description: 
-#permalink: 
+#blog_description:
+#permalink:
 #lsi:  # produce an index for related posts
 
 # Pagination
@@ -103,7 +103,7 @@ pagination:
 
 related_blog_posts:
   enabled: false
-  max_related: 
+  max_related:
 
 # Giscus comments (RECOMMENDED)
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out the information below.
@@ -130,16 +130,16 @@ disqus_shortname: arghya # put your disqus shortname
 # you can display them in your blog by adding a link to the RSS feed.
 # Optional: Set default categories and tags for posts from each source.
 #external_sources:
-  #- name: 
-  #  rss_url: 
-  #  categories: [external-posts]
-  #  tags: [medium]
-  #- name: 
-  #  posts:
-  #    - url:
-  #      published_date: 
-  #  categories: 
-  #  tags: 
+#- name:
+#  rss_url:
+#  categories: [external-posts]
+#  tags: [medium]
+#- name:
+#  posts:
+#    - url:
+#      published_date:
+#  categories:
+#  tags:
 
 # -----------------------------------------------------------------------------
 # Newsletter
@@ -339,7 +339,7 @@ filtered_bibtex_keywords:
 
 # Maximum number of authors to be shown for each publication (more authors are visible on click)
 max_author_limit: # leave blank to always show all authors
-more_authors_animation_delay:  # more authors are revealed on click using animation; smaller delay means faster animation
+more_authors_animation_delay: # more authors are revealed on click using animation; smaller delay means faster animation
 
 # Enables publication thumbnails. If disabled, none of the publications will display thumbnails, even if specified in the bib entry.
 enable_publication_thumbnails: true

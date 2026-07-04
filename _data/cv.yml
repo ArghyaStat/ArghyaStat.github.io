@@ -16,15 +16,15 @@
         - Grade (8.78 out of 10).
         - title: Coursework.
           contents:
-             - Probability Theory (Core).
-             - Statistical Inference (Core).
-             - Advanced Calculus (Core).
-             - Asymptotic Statistics (Elective).
-             - Robust Statistical Methods (Elective).
-             - Probabilistic Machine Learning (Elective).
-             - Spatial Statistics (Elective).
-             - Markov chain Monte Carlo (Elective).
-     
+            - Probability Theory (Core).
+            - Statistical Inference (Core).
+            - Advanced Calculus (Core).
+            - Asymptotic Statistics (Elective).
+            - Robust Statistical Methods (Elective).
+            - Probabilistic Machine Learning (Elective).
+            - Spatial Statistics (Elective).
+            - Markov chain Monte Carlo (Elective).
+
     - title: MSc in Statistics
       institution: University of Calcutta, India
       year: 2020
@@ -46,7 +46,7 @@
         - MTH-422 (Introduction to Bayesian Analysis).
         - MTH-441 (Linear Regression and ANOVA).
         - MTH-442 (Time Series Analysis).
-    
+
     - title: Grader
       description:
         - MTH-209 (Data Science lab-2).
@@ -62,7 +62,6 @@
       year: 2021
       description: Statistical Modeler for efficient survey design.
 
-
 - title: Summer Research Fellow
   type: time_table
   contents:
@@ -73,21 +72,21 @@
 - title: Honors and Awards
   type: time_table
   contents:
-     - year: 2025
-       items:
-         - Junior Travel Award, sponsored by ISBA in BayesComp-2025, Singapore.
-        
-     - year: 2025
-       items:
-         - Best Paper Award (2nd), International Conference on Recent Advancements in the Techniques of the Bayesian Paradigm, Banaras Hindu University.
+    - year: 2025
+      items:
+        - Junior Travel Award, sponsored by ISBA in BayesComp-2025, Singapore.
 
-     - year: 2019
-       items:
-         - Best Poster Award – National Seminar on Sample Survey, jointly organized by Calcutta Statistical Association and the Department of Statistics, University of Calcutta.
-     
-     - year: 2015-2020
-       items: 
-         - DST-INSPIRE Scholar (based on top 1% percentiles in board exams in high school), sponsored by the Department of Science and Technology, Government of India.
+    - year: 2025
+      items:
+        - Best Paper Award (2nd), International Conference on Recent Advancements in the Techniques of the Bayesian Paradigm, Banaras Hindu University.
+
+    - year: 2019
+      items:
+        - Best Poster Award – National Seminar on Sample Survey, jointly organized by Calcutta Statistical Association and the Department of Statistics, University of Calcutta.
+
+    - year: 2015-2020
+      items:
+        - DST-INSPIRE Scholar (based on top 1% percentiles in board exams in high school), sponsored by the Department of Science and Technology, Government of India.
 
 - title: Research Interests
   type: nested_list
@@ -100,18 +99,18 @@
 - title: Workshops and Conferences
   type: time_table
   contents:
-     - year: 2025
-       items:
-         - Invited Attendee at BIRS Workshop on Uncertainty quantification of large Bayesian models, CMI, Chennai, India.
-        
-     - year: 2025
-       items:
-         - Student Paper Competition on International Conference on Recent Advancements in the Techniques of the Bayesian Paradigm, Banaras Hindu University.
+    - year: 2025
+      items:
+        - Invited Attendee at BIRS Workshop on Uncertainty quantification of large Bayesian models, CMI, Chennai, India.
 
-     - year: 2024
-       items:
-         - Contributed talk at IISA-2024, Kochi, India, organized by the International Indian Statistical Association.
-     
-     - year: 2022
-       items: 
-         - Poster presentation at IISA-2022, IISc Bangalore, India, organized by the International Indian Statistical Association.
+    - year: 2025
+      items:
+        - Student Paper Competition on International Conference on Recent Advancements in the Techniques of the Bayesian Paradigm, Banaras Hindu University.
+
+    - year: 2024
+      items:
+        - Contributed talk at IISA-2024, Kochi, India, organized by the International Indian Statistical Association.
+
+    - year: 2022
+      items:
+        - Poster presentation at IISA-2022, IISc Bangalore, India, organized by the International Indian Statistical Association.
