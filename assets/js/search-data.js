@@ -10,8 +10,8 @@ ninja.data = [{
       window.location.href = "/";
     },
   },{id: "nav-publications",
-          title: "Publications",
-          description: "publications by categories in reversed chronological order.",
+          title: "publications",
+          description: "an up-to-date list is also available on Google Scholar",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
