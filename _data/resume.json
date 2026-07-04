@@ -18,7 +18,7 @@
       "area": "Statistics",
       "url": "https://www.iitk.ac.in/math/ph-d-students",
       "startDate": "2022-01-01",
-      "endDate": "2026-12-31",
+      "endDate": "Present",
       "score": "8.78",
       "courses": [
         "Probability Theory",
@@ -30,6 +30,26 @@
         "Spatial Statistics",
         "Markov chain Monte Carlo"
       ]
+    },
+    {
+      "institution": "University of Calcutta",
+      "studyType": "MSc",
+      "area": "Statistics",
+      "url": "https://www.caluniv.ac.in/academic/Statistics.html",
+      "startDate": "2018-08-01",
+      "endDate": "2020-09-30",
+      "score": "72.5%",
+      "courses": []
+    },
+    {
+      "institution": "University of Calcutta",
+      "studyType": "BSc",
+      "area": "Statistics",
+      "url": "https://www.caluniv.ac.in/academic/Statistics.html",
+      "startDate": "2015-07-01",
+      "endDate": "2018-06-30",
+      "score": "72.4%",
+      "courses": []
     }
   ],
   "awards": [
