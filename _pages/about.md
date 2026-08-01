@@ -6,7 +6,7 @@ subtitle: <a href='#'> </a>
 
 profile:
   align: right
-  image: Arghya_image2.JPG
+  image: Arghya_image2-2-2.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
     <p> Email: arghyam21@iitk.ac.in </p>
